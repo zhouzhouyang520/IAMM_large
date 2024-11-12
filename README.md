@@ -7,7 +7,7 @@
 To run this code, you should：
 1. Clone the project from github.
 ```sh
-git clone https://github.com/zhouzhouyang520/IAMM.git
+git clone https://github.com/zhouzhouyang520/IAMM_large.git
 ```
 2. Enter the project root directory
 ```sh
